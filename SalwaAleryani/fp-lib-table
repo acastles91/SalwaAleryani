@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "2477")(type "KiCad")(uri "/home/antonio/dev/kicad-modules/ESP32-Circuit/libraries/10103594-0001LF-USB-Mini/10103594-0001LF-USB-Mini.pretty")(options "")(descr ""))
+)

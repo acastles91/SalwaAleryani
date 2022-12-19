@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "7-segment-display-rescue")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/7-segment-display/7-segment-display-rescue.lib")(options "")(descr ""))
+  (lib (name "ariadne-rescue")(type "Legacy")(uri "/home/antonio/dev/ariadne/ariadne-rescue.lib")(options "")(descr ""))
+  (lib (name "upuaut_2Nils-rescue")(type "Legacy")(uri "/home/antonio/OpenSourceCelluloid/pcb/upuaut/upuaut/upuaut_2Nils-rescue.lib")(options "")(descr ""))
+  (lib (name "upuaut-rescue")(type "Legacy")(uri "/home/antonio/OpenSourceCelluloid/pcb/upuaut/upuaut/upuaut-rescue.lib")(options "")(descr ""))
+  (lib (name "murata-power-regulator-rescue")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/murata-power-regulator/murata-power-regulator-rescue.lib")(options "")(descr ""))
+  (lib (name "batteryHolder")(type "KiCad")(uri "${KIPRJMOD}/snapEDA/BH4AA-PC.kicad_sym")(options "")(descr ""))
+  (lib (name "SalwaAleryani-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/SalwaAleryani-eagle-import.kicad_sym")(options "")(descr ""))
+)
